@@ -13,23 +13,41 @@ Output
 Output n lines, containing the IDs of the cards in the order they are to be sold, from first (least unique) to last (most unique).
 
 Sample Input 1	
+
 3
+
 42 1 1 1
+
 90 1 1 2
+
 110 1 1 3
+
 Sample Output 1
+
 2
+
 3
+
 1
 
 Sample Input 2	
+
 4
+
 0 0 0 0
+
 120 120 120 120
+
 240 240 240 240
+
 0 120 240 2017
+
 Sample Output 2
+
 2017
+
 240
+
 120
+
 0
