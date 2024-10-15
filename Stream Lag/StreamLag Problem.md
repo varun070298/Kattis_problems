@@ -15,28 +15,49 @@ Output
 Output the total lag time based on the given packet arrival time.
 
 Sample Input 1	
+
 5
+
 1 1
+
 3 2
+
 4 5
+
 4 3
+
 5 4
+
 Sample Output 1
+
 1
 
 Sample Input 2	
+
 4
+
 1 1
+
 3 3
+
 4 2
+
 8 4
+
 Sample Output 2
+
 4
 
 Sample Input 3
+
 3
+
 1 1
+
 2 2
+
 2 3
+
 Sample Output 3
+
 0
