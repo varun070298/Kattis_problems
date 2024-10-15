@@ -15,15 +15,25 @@ Output
 For each test case, output one line containing “Case #x: ” followed by the number C of the guest who is alone.
 
 Sample Input 1	
+
 3
+
 3
+
 1 2147483647 2147483647
+
 5
+
 3 4 7 4 3
+
 5
+
 2 10 2 10 5
 
 Sample Output 1
+
 Case #1: 1
+
 Case #2: 7
+
 Case #3: 5
